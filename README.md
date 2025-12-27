@@ -37,6 +37,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+<img width="1202" height="851" alt="image" src="https://github.com/user-attachments/assets/eebbea2b-3da6-4314-808c-af62095aaa61" />
+
 [Ex 5.2.pdf](https://github.com/user-attachments/files/24348892/Ex.5.2.pdf)
 
 
